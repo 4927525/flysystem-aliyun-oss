@@ -1,6 +1,6 @@
 <?php
 
-namespace Xxtime\Flysystem\Aliyun;
+namespace Hzbskak\Flysystem\Aliyun;
 
 use League\Flysystem\Config;
 
